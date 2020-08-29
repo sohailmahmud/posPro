@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/jasperreports-3.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/jasperreports-fonts-3.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Java/tools/jasper/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
